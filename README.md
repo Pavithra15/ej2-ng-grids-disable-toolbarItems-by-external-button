@@ -1,6 +1,14 @@
-# ej2-ng-grid-detailrow-editing
+# ej2-ng-grid-disable-toolbar-buttons
 
-Detail Grid editing with custom dialog model
+Disabling toolbar buttons by clicking external button.
+
+## Requirement
+
+Disabling toolbar buttons by clicking external button.
+
+## Solution 
+
+In Button click event the toolbar items(edit,add,delete) are disbled. 
 
 ## Installing
 
